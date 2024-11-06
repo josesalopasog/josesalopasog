@@ -2,7 +2,7 @@
 
 <h1> Hi there, I'm José Salopaso 👋 </h1>
 
-<img align="right" width=440px src="https://github.com/josesalopasog/josesalopasog/blob/main/computer.gif" />
+<img align="right" width=300px src="https://github.com/josesalopasog/josesalopasog/blob/main/computer.gif" />
 
 I'm a Software/Electronic Engineer with a strong passion for data science, application development, and web technologies. Currently, I’m focused on enhancing my skills in building data-driven software, developing intuitive web applications, and creating impactful solutions. I enjoy working with tools and frameworks that help transform complex data into actionable insights and user-friendly interfaces, bringing innovative ideas to life through technology.
 
