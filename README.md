@@ -71,5 +71,5 @@ I'm a Software/Electronic Engineer with a strong passion for data science, appli
 
 ## 📶 GitHub Analytics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josesalopasog&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/josesalopasog/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josesalopasog&theme=tokyonight&hide_border&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josesalopasog&theme=tokyonight&hide_border=true&layout=compact)
 
