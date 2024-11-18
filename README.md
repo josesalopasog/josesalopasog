@@ -67,7 +67,7 @@ I'm a Software/Electronic Engineer with a strong passion for data science, appli
 
 ## 📂 Open Source Projects
 
-- **[Py_Calculator](https://github.com/josesalopasog/Py_Calculator)**: A scientific calculator built with Python and Tkinter, featuring standard arithmetic operations, square roots, exponents, and more advanced functions. Designed with a responsive UI to provide a clear display and intuitive button layout for ease of use..
+- **[Python Projects](https://github.com/josesalopasog/Python-Projects)**: Here you can use my open source Python projects for practice.
 
 ## 📶 GitHub Analytics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josesalopasog&theme=tokyonight&hide_border=true&show_icons=true)](https://github.com/josesalopasog/github-readme-stats)
