@@ -1,5 +1,3 @@
-![Jose Salopaso Banner](https://github.com/josesalopasog/josesalopasog/blob/main/Banner%20(Jos%C3%A9%20Salopaso).jpg)
-
 <h1> Hi there, I'm José Salopaso 👋 </h1>
 
 <img align="right" width=300px src="https://github.com/josesalopasog/josesalopasog/blob/main/computer.gif" />
